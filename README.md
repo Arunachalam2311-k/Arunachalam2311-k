@@ -3,6 +3,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arunachalam2311-khttps://github.com/Arunachalam2311-k](https://github.com/Arunachalam2311-khttps://github.com/Arunachalam2311-k)
 
+- 💬 Ask me about **https://www.guvi.in/arunrock231120566**
+
 - 📫 How to reach me **arunrock2311@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UVUF09VDvSymxfQnsh6JQiNaeSboyWip/view?usp=sharing](https://drive.google.com/file/d/1UVUF09VDvSymxfQnsh6JQiNaeSboyWip/view?usp=sharing)
@@ -10,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arunachalam-k-a7a481305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arunachalam-k-a7a481305/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/arunrock2311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/arunrock2311" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
